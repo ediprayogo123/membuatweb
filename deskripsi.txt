@@ -3,4 +3,3 @@ MEMBUAT APLIKASI PENGOLAH DATA ALUMNI
 -membuat form pengisian data
 -membuat halaman tampilan
 -menambahkan halaman profile
--menambah kan kekuranagn
